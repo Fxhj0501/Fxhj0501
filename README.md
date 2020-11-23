@@ -1,6 +1,6 @@
-# <center>欢迎访问冯兄化吉的GitHub 👋</center>
+# 欢迎访问冯兄化吉的GitHub 👋
 ## 先来做个自我介绍:
-### 1.本人BJUT🔨大学在读大三学生
+### 1.本人BJUT(🔨大学)在读大三学生
 ### 2.技能：
 #### 前端：CSS，HTML，JS
 #### 后端：Java，C++，Python,C
