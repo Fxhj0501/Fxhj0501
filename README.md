@@ -1,9 +1,9 @@
-### Hi there 👋
+# 欢迎访问冯兄化吉的GitHub 👋
 
 <!--
 **Fxhj0501/Fxhj0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 先来做个自我介绍:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
