@@ -8,4 +8,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fxhj0501&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxhj0501&hide=perl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=perl,css)](https://github.com/anuraghazra/github-readme-stats)
